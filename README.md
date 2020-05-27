@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/Shterneregen/mssc-beer-inventory-service.svg?style=svg)](https://circleci.com/gh/Shterneregen/mssc-beer-inventory-service)
 # MSSC Beer Inventory Service
 
 Spring Boot Microservice example
