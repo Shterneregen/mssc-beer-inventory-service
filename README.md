@@ -1,7 +1,12 @@
 [![CircleCI](https://circleci.com/gh/Shterneregen/mssc-beer-inventory-service.svg?style=svg)](https://circleci.com/gh/Shterneregen/mssc-beer-inventory-service)
 # MSSC Beer Inventory Service
 
-Spring Boot Microservice example
+[Dockerfile for the ActiveMQ Artemis Project](https://github.com/vromero/activemq-artemis-docker)
+```console
+docker run -it --rm -p 8161:8161 -p 61616:61616 vromero/activemq-artemis
+``` 
+Credentials: 
+`artemis` / `simetraehcapa`
 
 ---
 * Original repo:
